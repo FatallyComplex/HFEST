@@ -14,3 +14,5 @@ This is a PHP based website to navigate an SQL server that holds a collection of
 
 ## How-To
 Using XAMPP you can host locally these files and navigate with your own data points in an SQL server.
+
+In database.php, change the connection, username and password so that you can connect properly to where your server is hosted
